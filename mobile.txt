@@ -2,3 +2,5 @@ mobile brands
 apple
 sumsun
 Blackberry
+HTC
+sony
