@@ -4,3 +4,6 @@ sumsun
 Blackberry
 HTC
 sony
+blueberry
+whiteberry
+roseberry
